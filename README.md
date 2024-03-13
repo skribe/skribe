@@ -6,7 +6,7 @@
   - [Mastodon](https://aus.social/@skribe)
   - [Blog](https://skribeworks.com)
   - [Facebook](https://facebook.com/skribe)
-  - [Twitter](https://twitter.com/skribe)  <-- at least until its demise
+  - [Twitter](https://twitter.com/skribe)  <-- I exist there, but no longer use it.  Hit me up on Mastodon instead.
 
 <!---
 skribe/skribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
