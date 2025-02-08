@@ -5,8 +5,8 @@
 - 📫 How to reach me: 
   - [Mastodon](https://aus.social/@skribe)
   - [Blog](https://skribeworks.com)
-  - [Facebook](https://facebook.com/skribe)
-  - [Twitter](https://twitter.com/skribe)  <-- I exist there, but no longer use it.  Hit me up on Mastodon instead.
+  - [Friendica](https://friendica.world/profile/skribe/)
+  - [Pixelfed](https://pixelfed.social/@skribe)
 
 <!---
 skribe/skribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
